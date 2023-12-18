@@ -43,7 +43,7 @@
     };
     keypad {
       bindings = <
-        &kp F12   &kp F1    &kp F2    &kp F3   &kp F4     &kp F5 &trans                                                                &mo 3 &kp F6 &kp F7   &kp F8       &kp F9       &kp F10  &kp DEL
+        &kp ESC   &kp F1    &kp F2    &kp F3   &kp F4     &kp F5 &trans                                                                &mo 3 &kp F6 &kp F7   &kp F8       &kp F9       &kp F10  &kp DEL
         &kp TAB   &kp Q     &kp PG_UP &kp UP   &kp PG_DN  &kp T  &none                                                                 &none &kp Y  &kp U    &kp LBKT     &kp RBKT     &kp P    &kp F11
         &mo 1     &kp A     &kp LEFT  &kp DOWN &kp RIGHT  &kp G  &none                   &kp LGUI  &kp CAPS &kp HOME &kp END           &none &kp H  &kp BSPC &kp LS(N9)   &kp LS(N0)   &kp SEMI &kp F12
         &kp LSHFT &kp Z     &kp HOME  &kp C    &kp END    &kp B                                    &kp HOME &kp PG_UP                        &kp N  &kp DEL  &kp LS(LBKT) &kp LS(RBKT) &kp FSLH &kp RSHFT
